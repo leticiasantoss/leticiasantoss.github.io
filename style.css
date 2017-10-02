@@ -1,0 +1,18 @@
+body{
+	background:url(imagens/imagemderede.jpg);
+	background-repeat: no-repeat;
+	background-size:90%;
+
+}
+	
+h1{
+	font-family:Arial black;
+	text-align:center;
+	font-size: 50px;
+	color:#800080;
+}
+
+p{
+	font-size: 30px;
+	color:#800080;
+}
