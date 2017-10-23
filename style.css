@@ -9,7 +9,11 @@ h1{
 	font-family:Arial black;
 	text-align:center;
 	font-size: 50px;
-	color:#800080;
+	color:#000;	
+}
+
+.ft{
+	border-radius: 50%;
 }
 
 p{
