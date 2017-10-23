@@ -1,7 +1,8 @@
 body{
 	background:url(imagens/imagemderede.jpg);
 	background-repeat: no-repeat;
-	background-size:90%;
+	background-size:100%;
+	background-color: #bf00ff;
 
 }
 	
@@ -11,12 +12,48 @@ h1{
 	font-size: 50px;
 	color:#000;	
 }
-
+.ftcentro{
+	display:flex; 
+	justify-content: center;
+}
 .ft{
 	border-radius: 50%;
-}
+	right: 100%;
 
-p{
-	font-size: 30px;
-	color:#800080;
 }
+.paragrafos{
+	position: relative;
+	display:flex; 
+	justify-content: center;
+	margin-top: 100px;
+	
+	color: #000;	
+
+}
+.nochao{
+	display: flex;
+	font-size: 40px;
+	color:#000;
+	font-family:Arial black;
+	
+}
+.paragrafos2{
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+}
+.nochao1{
+	display: flex;
+	font-size: 40px;
+	color:#000;
+	text-align: center;
+	
+}
+.rodape{
+	font-size: 30px;
+}
+.icon{
+	height: 100px;
+	font-weight: 100px;
+	margin-left: 20px;
+	}
